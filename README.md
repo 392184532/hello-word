@@ -1,2 +1,2 @@
-# hello-word
-简单使用git
+# hello-world
+创建一个分支
